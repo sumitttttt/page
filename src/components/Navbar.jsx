@@ -4,7 +4,7 @@ import brandLogo from "../images/brand_logo.png";
 
 function Navigation() {
   return (
-    <div className="nav-bar">
+    <div className="container">
       <nav>
         <div className="logo">
           <img src={brandLogo} alt="brand_logo"></img>
